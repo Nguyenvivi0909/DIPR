@@ -1,0 +1,1 @@
+- Chạy project bằng cách mở terminal lên và chạy file 🏠_Home_Page.py bằng streamlit
